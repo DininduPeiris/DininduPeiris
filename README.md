@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinindupeiris&label=Profile%20views&color=0e75b6&style=flat" alt="dinindupeiris" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://dininduchamikara.netlify.app/](https://dininduchamikara.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://dinindupeiris.netlify.app/])
 
 - 📫 How to reach me **dininduchamikara1999@gmail.com**
 
